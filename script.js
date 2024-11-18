@@ -1,5 +1,3 @@
-//Dita Annisa Diningtyas | Kelas Front End | Hari 13
-
 //metode array untuk menyimpan data
 let books = [];
 
